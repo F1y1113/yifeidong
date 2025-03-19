@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fengyi Wu"
+title: "Yifei Dong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing my Ph.D. degree at SICE, UESTC, supervised by Prof. [[Zhenming Peng](https://idiplab.uestc.cn/queryNews?htmlid=1545286321065)]. Currently, my research interests focus on optimization-based methods with applications in signal and image processing, learning, and computer vision.
+I am a research assistant intern in University of Washington, supervised by Prof. [[Zhi-Qi Cheng](https://www.cs.cmu.edu/~zhiqic/)]. Since 2023, I have also had the privilege of being guided by Prof. Alexander G Hauptmann and Dr. Qi Dai. Prior to this, I spent two enriching years at Columbia University, where I worked with Prof. Ching-Yung Lin and Prof. Henning Schulzrinne. Currently, my research interests focus on Embodied AI and foundational models, particularly in Vision-and-Language Navigation (VLN) and human-aware social navigation.
 
 ## Education
 - B.Eng., EIE, UESTC, China, 2017-2021.
-- M.Eng., SICE, UESTC, China, 2021-2023.
-- Ph.D. Candidate, SICE, UESTC, China, 2023-present.
+- B.Eng., EE, University of Glasgow, UK, 2017-2021. (dual degree)
+- M.Eng., EE, Columbia University, USA, 2021-2023.
 
 
 ## Publication
