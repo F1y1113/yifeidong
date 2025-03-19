@@ -22,10 +22,10 @@ repository               : "F1y1113/yifeidong"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yifei.png"
   name             : "Yifei Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant @UW @CMU, MS @Columbia, BS @UESTC"
+  bio              : "Research Assistant @UW @CMU, MS @Columbia, BS @UESTC & UoG"
   location         : "Chengdu, China"
   employer         : 
   uri              : # URL
