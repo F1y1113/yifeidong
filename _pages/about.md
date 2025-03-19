@@ -17,7 +17,7 @@ I am a research assistant intern in University of Washington, supervised by Prof
 
 
 ## Publication
-\# means equal contribution; * means corresponding author, 🎈 for the current major, 🍭 for previous interesting avocations.
+# means equal contribution; * means corresponding author, 🎈 for the current major, 🍭 for previous interesting avocations.
 
 1. **Yifei Dong#**, Fengyi Wu#, Qi He#, Heng Li, Minghan Li, Zebang Cheng, Yuxuan Zhou, Jingdong Sun, Qi Dai, Zhi-Qi Cheng*, Alexander G Hauptmann (2025). HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard. Under Review. [[link](https://arxiv.org/abs/2503.14229)][[code](https://github.com/F1y1113/HA-VLN)] 🎈
 2. **Yifei Dong#**, Fengyi Wu#, Kunlin Zhang#, Heng Li, Jingdong Sun, Zhi-Qi Cheng* (2025). Large Language Model Agents in Finance: A Survey Bridging Research, Practice, and Real-World Deployment. Under Review. [[link](http://dx.doi.org/10.13140/RG.2.2.11817.51048)][[project website](https://f1y1113.github.io/fin_survey/)] 🎈
