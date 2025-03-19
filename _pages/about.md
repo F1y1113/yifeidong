@@ -12,7 +12,7 @@ I am a research assistant intern in University of Washington, supervised by Prof
 
 ## Education
 - B.Eng., EE, UESTC, China, 2017-2021.
-- B.Eng., EE, University of Glasgow, UK, 2017-2021. (dual degree)
+- B.Eng. (honour), EE, University of Glasgow, UK, 2017-2021. (dual degree)
 - MS, EE, Columbia University, USA, 2021-2023.
 
 
