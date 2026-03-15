@@ -25,17 +25,17 @@ author:
   avatar           : "yifei.png"
   name             : "Yifei Dong"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant @UW @CMU, MS @Columbia, BS @UoG"
-  location         : "Chengdu, China"
+  bio              : "PhD @UW @CMU"
+  location         : "Seattle, USA"
   employer         : 
   uri              : # URL
-  email            : "yd2616@columbia.edu" 
+  email            : "yfeidong@uw.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : ""
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
