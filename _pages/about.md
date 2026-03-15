@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in University of Washington, supervised by Prof. [[Zhi-Qi Cheng](https://faculty.washington.edu/zhiqics/)]. Since 2023, I have also had the privilege of being guided by Prof. [[Alexander G Hauptmann](https://scholar.google.com/citations?user=Py54GcEAAAAJ&hl=en)] and Dr. [[Qi Dai](https://daiqi1989.github.io/)]. Prior to this, I spent two enriching years at Columbia University, where I worked with Prof. [[Ching-Yung Lin](https://www.ee.columbia.edu/content/ching-yung-lin)] and Prof. [[Henning Schulzrinne](https://scholar.google.com/citations?user=6IHX8J4AAAAJ&hl=en)]. Currently, my research interests focus on Embodied AI and foundational models, particularly in world models and human-aware navigation.
+I am a PhD student in University of Washington, supervised by Prof. [Zhi-Qi Cheng](https://faculty.washington.edu/zhiqics/). Since 2023, I have also had the privilege of being guided by Prof. [Alexander G Hauptmann](https://scholar.google.com/citations?user=Py54GcEAAAAJ&hl=en) and Dr. [Qi Dai](https://daiqi1989.github.io/). Prior to this, I spent two enriching years at Columbia University, where I worked with Prof. [Ching-Yung Lin](https://www.ee.columbia.edu/content/ching-yung-lin) and Prof. [Henning Schulzrinne](https://scholar.google.com/citations?user=6IHX8J4AAAAJ&hl=en). Currently, my research interests focus on Embodied AI and foundational models, particularly in world models and human-aware navigation.
 
 ## Education
 - B.Eng. (honour), University of Glasgow, 2017-2021. 
